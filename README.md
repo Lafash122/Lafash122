@@ -1,9 +1,11 @@
 # He/him!
 
-### LeetCode progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/Lafash122?theme=ligth&font=JetBrains%20Mono)
+
 
 ![Моряки](https://github.com/user-attachments/assets/ccd5cd7d-df3b-4a60-826c-8b35d7565e86)
 
-### Attention
-The repository "UniversitLearning" has commits starting from 02/28/2025 because previously all files were scattered across different repositories, which were deleted
+## About me
+
+### LeetCode progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lafash122?theme=ligth&font=JetBrains%20Mono)
